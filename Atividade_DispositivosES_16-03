@@ -1,0 +1,63 @@
+# UniCeub
+
+**Henrique Mota Monteiro**
+
+# ATIVIDADE – INTRODUÇÃO À COMPUTAÇÃO  
+**Entrada e Saída de Dados**
+
+Brasília – DF  
+23/032026  
+
+---
+
+## 1. Introdução
+
+Os dispositivos de entrada e saída são fundamentais para o funcionamento de um computador. Eles permitem a comunicação entre o usuário e o sistema operacional, possibilitando enviar e receber informações.
+
+---
+
+## 2. Classificação
+
+- Teclado → Entrada  
+- Mouse → Entrada  
+- Monitor → Saída  
+- Fone de ouvido → Saída  
+- Pen drive → Entrada/Saída  
+
+---
+
+## 3. Associação
+
+- **Teclado (Entrada):** envia sinais ao sistema operacional quando você digita. Sua função é permitir a escrita de textos e comandos.  
+
+- **Mouse (Entrada):** envia movimentos e cliques para o sistema operacional. Sua função é controlar o cursor na tela.  
+
+- **Monitor (Saída):** recebe informações do sistema operacional. Sua função é mostrar imagens, vídeos e textos.  
+
+- **Fone de ouvido (Saída):** recebe sinais de áudio do sistema operacional. Sua função é reproduzir sons para o usuário.  
+
+- **Pen drive (Entrada/Saída):** se conecta pela porta USB e troca dados com o sistema operacional. Sua função é armazenar e transferir arquivos.  
+
+---
+
+## 4. Reflexão
+
+- **O que aconteceria sem dispositivos de saída?**  
+O computador funcionaria, mas você não conseguiria ver nem ouvir nada do que ele faz. Assim, seria praticamente impossível utilizá-lo, pois não haveria retorno das ações realizadas.  
+
+- **Por que dispositivos híbridos são importantes?**  
+Porque permitem tanto enviar quanto receber dados, facilitando a comunicação entre computadores e outros dispositivos. Sem eles, a troca de informações seria muito limitada.  
+
+---
+
+## 5. Referências
+
+IBM. *Input/Output (I/O) in computing*. Disponível em: <https://www.ibm.com>.  
+
+MICROSOFT. *Dispositivos de entrada e saída*. Disponível em: <https://support.microsoft.com>.  
+
+KHAN ACADEMY. *Hardware de computador*. Disponível em: <https://www.khanacademy.org>.  
+
+W3SCHOOLS. *Computer Input and Output Devices*. Disponível em: <https://www.w3schools.com>.  
+
+WIKIPEDIA. *Entrada e saída (computação)*. Disponível em: <https://pt.wikipedia.org>.  
