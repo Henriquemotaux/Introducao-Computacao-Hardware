@@ -13,8 +13,6 @@ Abaixo estão descritas as representações estruturais das principais topologia
 
 
 
-[Image of Star topology network diagram]
-
 
 ### Barramento (Bus)
 * **Descrição:** Todos os hosts compartilham um único meio de transmissão físico central (barramento linear).
