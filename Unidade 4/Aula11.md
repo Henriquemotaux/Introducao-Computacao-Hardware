@@ -22,8 +22,8 @@ Abaixo estão descritas as representações estruturais das principais topologia
 ![[anel ](Imagens/13.png)](https://github.com/Henriquemotaux/Introducao-Computacao-Hardware/blob/main/Unidade%204/imagens/13.jpg)
 
 ### Malha (Mesh)
-* **Descrição:** Os hosts possuem conexões diretas ponto a ponto redundantes entre si.
-* **Funcionamento:** Oferece múltiplos caminhos para que os dados cheguem ao destino, garantindo alta tolerância a falhas, embora possua alto custo de implementação de cabeamento e interfaces.
+![[Malha](Imagens/DiagramaMalha.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/Diagrama%20Malha.png)
+
 
 ---
 
