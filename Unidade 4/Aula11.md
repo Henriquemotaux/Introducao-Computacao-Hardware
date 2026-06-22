@@ -43,10 +43,7 @@ Abaixo estão descritas as representações estruturais das principais topologia
 Os caminhos físicos e lógicos por onde os dados viajam são classificados de acordo com sua estrutura:
 
 ### Guiados (Com Fio)
-Conduzem os sinais eletromagnéticos ou ópticos confinados dentro de um caminho físico.
-* **Cabo de Fibra Óptica:** Utiliza pulsos de luz (fótons) através de um núcleo de vidro ou plástico revestido por uma casca. Possui altíssima velocidade, imunidade total a interferências eletromagnéticas e é ideal para longas distâncias (Backbones/WAN).
-* **Cabo de Par Trançado (UTP/STP):** Fios de cobre entrelaçados em pares para cancelar interferências magnéticas externas. É o meio mais comum, flexível e econômico para redes locais (LAN).
-* **Cabo Coaxial:** Formado por um condutor central de cobre envolto por uma malha blindada, oferecendo boa proteção mecânica e contra ruídos, herdado dos sistemas de TV a cabo.
+![[com fio](Imagens/14.png)](https://github.com/Henriquemotaux/Introducao-Computacao-Hardware/blob/main/Unidade%204/imagens/14.png)
 
 ### Não Guiados (Sem Fio)
 Utilizam a propagação através do espectro eletromagnético em espaço aberto, dispensando barreiras físicas de confinamento.
