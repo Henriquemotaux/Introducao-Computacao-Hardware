@@ -9,7 +9,7 @@ Este repositório contém a resolução e os materiais da **Aula 11**, abordando
 Abaixo estão descritas as representações estruturais das principais topologias de rede, identificando os nós (hosts) e os elementos centrais ou caminhos físicos de interconexão.
 
 ### Estrela (Star)
-![[star](imagens/11.png)](https://github.com/Henriquemotaux/Introducao-Computacao-Hardware/blob/main/Unidade%204/imagens/11.png)
+![[Estrela ](Imagens/11.png)](https://github.com/Henriquemotaux/Introducao-Computacao-Hardware/blob/main/Unidade%204/imagens/11.png)
 
 
 
