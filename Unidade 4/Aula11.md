@@ -50,3 +50,6 @@ Os caminhos físicos e lógicos por onde os dados viajam são classificados de a
 
 ### Esquema Visual de Conexão dos Meios
 ![[Malha](Imagens/EsquemaVisual.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/EsquemaVisual.png)
+
+### Reflexão indivual 
+Analisando as características das arquiteturas de redes, a topologia mais adequada para a minha residência é a Topologia em Estrela (Star), combinada a uma distribuição mista de meios de transmissão.
