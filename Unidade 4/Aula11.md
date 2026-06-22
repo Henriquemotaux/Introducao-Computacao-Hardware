@@ -19,8 +19,7 @@ Abaixo estão descritas as representações estruturais das principais topologia
 
 
 ### Anel (Ring)
-* **Descrição:** Os dispositivos conectados são dispostos em série, formando um circuito fechado (anel).
-* **Funcionamento:** Os dados trafegam em uma única direção de nó em nó. Cada máquina atua como um repetidor até que a informação alcance o destinatário.
+![[anel ](Imagens/13.png)](https://github.com/Henriquemotaux/Introducao-Computacao-Hardware/blob/main/Unidade%204/imagens/13.jpg)
 
 ### Malha (Mesh)
 * **Descrição:** Os hosts possuem conexões diretas ponto a ponto redundantes entre si.
