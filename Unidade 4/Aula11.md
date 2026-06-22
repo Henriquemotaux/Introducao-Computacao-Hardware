@@ -15,8 +15,8 @@ Abaixo estão descritas as representações estruturais das principais topologia
 
 
 ### Barramento (Bus)
-* **Descrição:** Todos os hosts compartilham um único meio de transmissão físico central (barramento linear).
-* **Funcionamento:** Os dados são propagados pelo cabo para todos os dispositivos. Possui terminadores nas extremidades para evitar reflexão de sinal. Se o cabo principal falhar, toda a rede fica indisponível.
+![[Barramento ](Imagens/12.png)](https://github.com/Henriquemotaux/Introducao-Computacao-Hardware/blob/main/Unidade%204/imagens/12.png)
+
 
 ### Anel (Ring)
 * **Descrição:** Os dispositivos conectados são dispostos em série, formando um circuito fechado (anel).
