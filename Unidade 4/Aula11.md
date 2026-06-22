@@ -46,10 +46,7 @@ Os caminhos físicos e lógicos por onde os dados viajam são classificados de a
 ![[com fio](Imagens/14.png)](https://github.com/Henriquemotaux/Introducao-Computacao-Hardware/blob/main/Unidade%204/imagens/14.png)
 
 ### Não Guiados (Sem Fio)
-Utilizam a propagação através do espectro eletromagnético em espaço aberto, dispensando barreiras físicas de confinamento.
-* **Wi-Fi (Rede Sem Fio Local):** Ondas de rádio para conexões locais de alta velocidade para múltiplos hosts simultâneos (Smartphones, Laptops, Tablets).
-* **Bluetooth (Comunicação de Curto Alcance):** Focado em redes de área pessoal (WPAN) de baixo consumo para conectar periféricos próximos.
-* **Comunicação por Satélite:** Enlaces de rádio de longa distância com antenas terrestres enviando (Uplink) e recebendo (Downlink) dados via satélite.
-* **Infravermelho (IV):** Utiliza feixes de luz infravermelha em curta distância. Requer linha de visão direta desimpedida (exemplo clássico: controles remotos de Smart TVs).
+![[MeiosNãoGuiados ](Imagens/MeiosNaoGuiados.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/MeiosNaoGuiados.png)
 
 ### Esquema Visual de Conexão dos Meios
+![[Malha](Imagens/EsquemaVisual.png)](https://github.com/LucasBarretoDev-eng/Introducao-Computacao-1semestre/blob/main/Unidade%204%20/Imagens/EsquemaVisual.png)
