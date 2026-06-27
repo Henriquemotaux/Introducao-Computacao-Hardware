@@ -15,14 +15,23 @@ Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup,
 - Cartilha utilizada como exemplo: [Cert.br - Códigos Maliciosos](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/fasciculos-cert.br/fasciculo-codigos-maliciosos-digital-govbr.pdf)
 
 ---
+**Produção do artefato criativo**  
+   - O artefato produzido foi um infográfico sobre malwares.
+   - O Infográfico foi divido em 4 partes de forma resumida, sendo essas:
+     -  **O que é?**
+     -  **Os riscos que trazem:**
+     -  **Formas de Proteger-se:**
+     -  **Exemplos práticos de Malwares**
 
-### Instruções da Atividade
-1. **Escolha da ameaça**  
-   - Selecionar uma ameaça (ex.: phishing, senhas fracas, uso de mídias removíveis, malware).  
-   - Consultar a cartilha correspondente no CERT.br.  
+---
+3. **Entrega**  
+  Publicado em uma pasta espécifica para a avaliação 3
+   - Nome da pasta: `Avalição 3`.  
+   - Arquivos:
+     - `README.md`  
+     - `Ransomware.pdf`
 
 
 ---
-
 ### Reflexão Individual
 As novas tecnologias, como a *Inteligência Artificial* e o *Machine Learning*, fortalecem a segurança da informação ao permitir a identificação de ameaças e a resposta a incidentes em tempo real, de forma automatizada e proativa. Além disso, a evolução de ferramentas como a autenticação biométrica e o modelo *Zero Trust* garante um controle de acesso muito mais rígido e inteligente. Juntas, essas inovações substituem as defesas estáticas tradicionais por um ecossistema dinâmico, capaz de proteger os dados e prever ataques antes que eles aconteçam.
