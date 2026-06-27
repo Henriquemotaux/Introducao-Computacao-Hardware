@@ -9,4 +9,4 @@ Este repositório contém o desenvolvimento da atividade prática da Aula 14 da 
 * `README.md`: Breve descrição e contextualização do repositório.
 * `conceitos.md`: Definição teórica e análise dos atributos centrais da segurança da informação fundamentados na ISO/IEC 27000:2018.
 * `ameacas.md`: Detalhamento de vetores de ataque, vulnerabilidades sistêmicas e impactos organizacionais.
-* `estudo_de_caso.md`: Relatório completo sobre o ataque cibernético do Ransomware *WannaCry*, avaliando falhas exploradas, impactos em infraestruturas críticas e medidas mitigatórias.
+* `EstudoCaso.md`: Relatório completo sobre o ataque cibernético do Ransomware *WannaCry*, avaliando falhas exploradas, impactos em infraestruturas críticas e medidas mitigatórias.
